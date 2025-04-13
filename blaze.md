@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blaze</title>
+    <title> Blaze </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -76,11 +76,11 @@
 
 <div class="content" id="contact">
     <h2>Contact Us</h2>
-    <p>If you have any questions, feel free to reach out to us at <a href="mailto:info@blaze.com">info@blaze.com</a>.</p>
+    <p>If you have any questions, feel free to reach out to us at <a href="mailto:nasya.duck@post.ic">nasya.duck@post.ic</a>.</p>
 </div>
 
 <footer>
-    <p>&copy; 2023 Blaze. All rights reserved.</p>
+    <p>&copy; 2025 Blaze. All rights reserved.</p>
 </footer>
 
 </body>
